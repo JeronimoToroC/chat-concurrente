@@ -1,0 +1,16 @@
+2024-11-27 00:23:30,834 - INFO - Servidor iniciado en 127.0.0.1:12345
+2024-11-27 00:23:51,687 - INFO - Conexión recibida de ('127.0.0.1', 53259)
+2024-11-27 00:24:06,947 - INFO - Conexión recibida de ('127.0.0.1', 53266)
+2024-11-27 00:24:10,079 - INFO - Mensaje recibido: Hola
+2024-11-27 00:24:26,877 - INFO - Mensaje recibido: cómo estás?
+2024-11-27 00:24:40,793 - WARNING - Conexión perdida con un cliente.
+2024-11-27 00:25:43,683 - WARNING - Conexión perdida con un cliente.
+2024-11-27 00:29:56,042 - INFO - Servidor iniciado en 127.0.0.1:12345
+2024-11-27 00:30:02,563 - INFO - Conexión recibida de ('127.0.0.1', 53477)
+2024-11-27 00:30:05,638 - INFO - Alias recibido: Jero 1
+2024-11-27 00:30:25,646 - INFO - Conexión recibida de ('127.0.0.1', 53486)
+2024-11-27 00:30:27,449 - INFO - Alias recibido: Jero 2
+2024-11-27 00:30:37,812 - INFO - Mensaje recibido: Jero 2: Holiwis
+2024-11-27 00:30:45,178 - INFO - Mensaje recibido: Jero 1: todo bien o k
+2024-11-27 00:31:01,405 - WARNING - Conexión perdida con un cliente.
+2024-11-27 00:31:10,540 - WARNING - Conexión perdida con un cliente.
