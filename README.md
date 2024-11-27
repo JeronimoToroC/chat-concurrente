@@ -43,7 +43,7 @@ chat-proyecto/
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/chat-proyecto.git
+   git clone https://github.com/JeronimoToroC/chat-concurrente.git
    cd chat-proyecto
    ```
 
